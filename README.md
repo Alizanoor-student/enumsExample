@@ -1,43 +1,9 @@
-# 🎮 Tic Tac Toe - Java Console Game
+# Java Enums Practice
 
-This is a simple **Tic Tac Toe** game built in **Java** using basic programming concepts. It runs in the **console** and allows **two players** to take turns marking spaces in a 3×3 grid.
+This repository contains my practice code for learning "Enums in Java".  
+It includes examples like:
+- Creating enums
+- Enum constructors
+- Using  ordinal() and values()
 
----
-
-## 📌 Features
-
-- Console-based 2-player game
-- Grid is updated after each move
-- Automatically checks for:
-  - A win
-  - A draw
-  - Invalid moves
-
----
-
-## 💡 Concepts Used
-
-- Arrays
-- Loops
-- Conditionals (if-else)
-- Methods and logic
-- Scanner for input
-
----
-
-## 🛠️ Technologies Used
-
-- Java (JDK 8+)
-- IntelliJ IDEA or any Java IDE
-- Git for version control
-
----
-
-## 🚀 How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/YourUsername/TicTacToe-Java.git
-
-
-
+This repo is only for my Java learning and experiments.
